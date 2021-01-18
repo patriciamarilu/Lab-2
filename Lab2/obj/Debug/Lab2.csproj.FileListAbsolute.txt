@@ -1,0 +1,9 @@
+J:\CIS-199\Lab2\Lab2\bin\Debug\Lab2.exe.config
+J:\CIS-199\Lab2\Lab2\bin\Debug\Lab2.exe
+J:\CIS-199\Lab2\Lab2\bin\Debug\Lab2.pdb
+J:\CIS-199\Lab2\Lab2\obj\Debug\Lab2.csprojAssemblyReference.cache
+J:\CIS-199\Lab2\Lab2\obj\Debug\Lab2.Form1.resources
+J:\CIS-199\Lab2\Lab2\obj\Debug\Lab2.Properties.Resources.resources
+J:\CIS-199\Lab2\Lab2\obj\Debug\Lab2.csproj.GenerateResource.cache
+J:\CIS-199\Lab2\Lab2\obj\Debug\Lab2.exe
+J:\CIS-199\Lab2\Lab2\obj\Debug\Lab2.pdb
